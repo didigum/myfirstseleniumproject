@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T05:13:52Z" name="Free CRM Application Test Automation Test Suite" finished-at="2021-03-10T05:13:52Z" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T05:13:52Z" name=" Playing With Strings Ammmaoooo" finished-at="2021-03-10T05:13:52Z" duration-ms="44">
+      <class name="PlayingWithString">
+        <test-method signature="loweringString(java.lang.String)[pri:1, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="loweringString" finished-at="2021-03-10T05:13:52Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loweringString -->
+        <test-method signature="lengthString(java.lang.String)[pri:2, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="lengthString" finished-at="2021-03-10T05:13:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lengthString -->
+        <test-method signature="reverseString(java.lang.String)[pri:3, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="reverseString" finished-at="2021-03-10T05:13:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseString -->
+        <test-method signature="concatString(java.lang.String)[pri:4, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="concatString" finished-at="2021-03-10T05:13:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- concatString -->
+        <test-method signature="splitString(java.lang.String)[pri:5, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="splitString" finished-at="2021-03-10T05:13:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- splitString -->
+        <test-method signature="subString(java.lang.String)[pri:6, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="subString" finished-at="2021-03-10T05:13:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subString -->
+        <test-method signature="trimString(java.lang.String)[pri:7, instance:PlayingWithString@117e949d]" started-at="2021-03-10T05:13:52Z" name="trimString" finished-at="2021-03-10T05:13:52Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANGO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trimString -->
+      </class> <!-- PlayingWithString -->
+    </test> <!--  Playing With Strings Ammmaoooo -->
+  </suite> <!-- Free CRM Application Test Automation Test Suite -->
+</testng-results>

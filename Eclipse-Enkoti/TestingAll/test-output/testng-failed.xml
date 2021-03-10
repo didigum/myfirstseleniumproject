@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Free CRM Application Test Automation Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="original" value="mango"/>
+  <test thread-count="5" name=" Playing With Strings Ammmaoooo(failed)">
+    <classes>
+      <class name="PlayingWithString">
+        <methods>
+          <include name="lengthString"/>
+          <include name="loweringString"/>
+          <include name="reverseString"/>
+        </methods>
+      </class> <!-- PlayingWithString -->
+    </classes>
+  </test> <!--  Playing With Strings Ammmaoooo(failed) -->
+</suite> <!-- Failed suite [Free CRM Application Test Automation Test Suite] -->
